@@ -13,7 +13,7 @@ var MyComponent = React.createClass({
 	render: function render() {
 		return React.createElement(
 			'div',
-			null,
+			{ style: { 'color': 'red' } },
 			'My Component'
 		);
 	}
