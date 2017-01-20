@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "My Component",
   "main": "lib/MyComponent.js",
-  "author": "",
-  "homepage": "https://github.com//react-my-component",
+  "author": "Monish Gupta",
+  "homepage": "https://github.com/monish001/react-my-npm-componentnpm-",
   "repository": {
     "type": "git",
-    "url": "https://github.com//react-my-component.git"
+    "url": "https://github.com/monish001/react-my-npm-componentnpm-.git"
   },
   "bugs": {
     "url": "https://github.com//react-my-component/issues"
